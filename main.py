@@ -17,7 +17,7 @@ def main():
                 n += 1
             else:
                 break
-        print(str(x)+'      '+str(s)+'     '+str(n))
+        print(str(x)+'     '+str(s)+'     '+str(n))
         x += d
 if __name__=='__main__':
     main()
